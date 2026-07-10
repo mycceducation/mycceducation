@@ -6,9 +6,12 @@
 
 ### Brandon Steel
 
-*IT Professional*
+*Cloud Architect*
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0969da?style=for-the-badge&logo=linkedin&logoColor=white)](https://linked)
 [![GitHub](https://img.shields.io/badge/GitHub-@technokid88-0969da?style=for-the-badge&logo=github&logoColor=white)](https://github.com/technokid88)
+[![Email](https://img.shields.io/badge/Email-Contact-0969da?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bsteel@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-View-0969da?style=for-the-badge&logo=googledrive&logoColor=white)](https://link)
 
 </div>
 
@@ -16,7 +19,7 @@
 
 ## 💼 Professional Summary
 
-test 1
+TEST
 
 ---
 
@@ -29,13 +32,21 @@ test 1
 ![DHCP](https://img.shields.io/badge/DHCP-0969da?style=flat-square)
 
 **☁️ Cloud & AI:**
-![Cloud Storage & Backup](https://img.shields.io/badge/Cloud%20Storage%20%26%20Backup-0969da?style=flat-square)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0969da?style=flat-square)
 
 **💻 Programming Languages & Tools:**
-![Docker](https://img.shields.io/badge/Docker-0969da?style=flat-square)
+![VMware / VirtualBox](https://img.shields.io/badge/VMware%20%2F%20VirtualBox-0969da?style=flat-square)
 
 **🤝 Professional Skills:**
-![Customer Service](https://img.shields.io/badge/Customer%20Service-0969da?style=flat-square)
+![Problem-Solving](https://img.shields.io/badge/Problem--Solving-0969da?style=flat-square)
+
+---
+
+## 🏆 Certifications & Digital Badges
+
+| Badge | Certification | Issuer / Description | Verify |
+|:---:|---|---|:---:|
+| 🏅 | **Comptia A+ ** | CompTIA | [View ↗](link) |
 
 ---
 
@@ -139,4 +150,4 @@ test 1
 
 </details>
 
-<!--MYCC-PORTFOLIO-META:{"name":"Brandon Steel","email":"","linkedin":"","repo":"","github":"technokid88","bio":"test 1","themeId":"blue","skills":["Computer Hardware","DHCP","Cloud Storage & Backup","Docker","Customer Service"],"headlines":["IT Professional"],"customHeadlines":[],"certs":[]}-->
+<!--MYCC-PORTFOLIO-META:{"name":"Brandon Steel","email":"bsteel@gmail.com","linkedin":"linked","repo":"link","github":"technokid88","bio":"TEST","themeId":"blue","skills":["Computer Hardware","DHCP","Microsoft Azure","VMware / VirtualBox","Problem-Solving"],"headlines":["Cloud Architect"],"customHeadlines":[],"certs":[{"title":"Comptia A+ ","issuer":"CompTIA","link":"link","imgUrl":""}]}-->
