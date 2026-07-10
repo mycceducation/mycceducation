@@ -29,13 +29,13 @@ TEST
 ![Computer Hardware](https://img.shields.io/badge/Computer%20Hardware-0969da?style=flat-square)
 
 **🔒 Networking & Security:**
-![DHCP](https://img.shields.io/badge/DHCP-0969da?style=flat-square)
+![DHCP](https://img.shields.io/badge/DHCP-0969da?style=flat-square) ![CompTIA Network+](https://img.shields.io/badge/CompTIA%20Network%2B-0969da?style=flat-square)
 
 **☁️ Cloud & AI:**
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0969da?style=flat-square)
 
 **💻 Programming Languages & Tools:**
-![VMware / VirtualBox](https://img.shields.io/badge/VMware%20%2F%20VirtualBox-0969da?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-0969da?style=flat-square) ![VMware / VirtualBox](https://img.shields.io/badge/VMware%20%2F%20VirtualBox-0969da?style=flat-square)
 
 **🤝 Professional Skills:**
 ![Problem-Solving](https://img.shields.io/badge/Problem--Solving-0969da?style=flat-square)
@@ -150,4 +150,4 @@ TEST
 
 </details>
 
-<!--MYCC-PORTFOLIO-META:{"name":"Brandon Steel","email":"bsteel@gmail.com","linkedin":"linked","repo":"link","github":"technokid88","bio":"TEST","themeId":"blue","skills":["Computer Hardware","DHCP","Microsoft Azure","VMware / VirtualBox","Problem-Solving"],"headlines":["Cloud Architect"],"customHeadlines":[],"certs":[{"title":"Comptia A+ ","issuer":"CompTIA","link":"link","imgUrl":""}]}-->
+<!--MYCC-PORTFOLIO-META:{"name":"Brandon Steel","email":"bsteel@gmail.com","linkedin":"linked","repo":"link","github":"technokid88","bio":"TEST","themeId":"blue","skills":["Computer Hardware","DHCP","Microsoft Azure","VMware / VirtualBox","Problem-Solving","CompTIA Network+","Docker"],"headlines":["Cloud Architect"],"customHeadlines":[],"certs":[{"title":"Comptia A+ ","issuer":"CompTIA","link":"link","imgUrl":""}]}-->
