@@ -1,17 +1,12 @@
 <div align="center">
 
-<img src="https://github.com/technokid88.png?size=200" width="155" height="155" style="border-radius:50%;border:4px solid #8250df;" alt="Brandon Steel" />
+# Hi there! I'm BRandon Steel
 
-# Hi there! I'm Brandon Steel
+### BRandon Steel
 
-### Brandon Steel
+*ITSA Student*
 
-*Cloud Architect | IT Professional*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-8250df?style=for-the-badge&logo=linkedin&logoColor=white)](https://linked)
-[![GitHub](https://img.shields.io/badge/GitHub-@technokid88-8250df?style=for-the-badge&logo=github&logoColor=white)](https://github.com/technokid88)
-[![Email](https://img.shields.io/badge/Email-Contact-8250df?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bsteel@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-View-8250df?style=for-the-badge&logo=googledrive&logoColor=white)](https://link)
 
 </div>
 
@@ -19,26 +14,13 @@
 
 ## 💼 Professional Summary
 
-TEST
+_Add your professional summary on the left._
 
 ---
 
 ## 🛠️ Skills Learned
 
-**🖥️ Tech Essentials:**
-![Computer Hardware](https://img.shields.io/badge/Computer%20Hardware-8250df?style=flat-square) ![IT Ticketing Systems](https://img.shields.io/badge/IT%20Ticketing%20Systems-8250df?style=flat-square) ![Data Backup & Recovery](https://img.shields.io/badge/Data%20Backup%20%26%20Recovery-8250df?style=flat-square)
-
-**🔒 Networking & Security:**
-![DHCP](https://img.shields.io/badge/DHCP-8250df?style=flat-square) ![CompTIA Network+](https://img.shields.io/badge/CompTIA%20Network%2B-8250df?style=flat-square) ![Active Directory](https://img.shields.io/badge/Active%20Directory-8250df?style=flat-square)
-
-**☁️ Cloud & AI:**
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-8250df?style=flat-square)
-
-**💻 Programming Languages & Tools:**
-![Docker](https://img.shields.io/badge/Docker-8250df?style=flat-square) ![VMware / VirtualBox](https://img.shields.io/badge/VMware%20%2F%20VirtualBox-8250df?style=flat-square)
-
-**🤝 Professional Skills:**
-![Active Listening](https://img.shields.io/badge/Active%20Listening-8250df?style=flat-square) ![Problem-Solving](https://img.shields.io/badge/Problem--Solving-8250df?style=flat-square) ![Remote Work Tools](https://img.shields.io/badge/Remote%20Work%20Tools-8250df?style=flat-square)
+_Select your skills using the chip matrix on the left._
 
 ---
 
@@ -46,9 +28,7 @@ TEST
 
 | Badge | Certification | Issuer / Description | Verify |
 |:---:|---|---|:---:|
-| 🏅 | **Comptia A+ ** | CompTIA | [View ↗](link) |
-| 🏅 | **Microsoft AZ-104** | Microsoft | [View ↗](link) |
-| 🏅 | **Microsoft** | — | — |
+| 🏅 | **MyCC Pathways Badge** | — | — |
 
 ---
 
@@ -152,4 +132,4 @@ TEST
 
 </details>
 
-<!--MYCC-PORTFOLIO-META:{"name":"Brandon Steel","email":"bsteel@gmail.com","linkedin":"linked","repo":"link","github":"technokid88","bio":"TEST","themeId":"purple","skills":["Computer Hardware","DHCP","Microsoft Azure","VMware / VirtualBox","Problem-Solving","CompTIA Network+","Docker","IT Ticketing Systems","Data Backup & Recovery","Active Directory","Active Listening","Remote Work Tools"],"headlines":["Cloud Architect","IT Professional"],"customHeadlines":[],"certs":[{"title":"Comptia A+ ","issuer":"CompTIA","link":"link","imgUrl":""},{"title":"Microsoft AZ-104","issuer":"Microsoft","link":"link","imgUrl":""},{"title":"Microsoft","issuer":"","link":"","imgUrl":""}]}-->
+<!--MYCC-PORTFOLIO-META:{"name":"BRandon Steel","email":"","linkedin":"","repo":"","github":"","bio":"","themeId":"blue","skills":[],"headlines":[],"customHeadlines":[],"certs":[{"title":"MyCC Pathways Badge","issuer":"","link":"","imgUrl":""}]}-->
