@@ -10,7 +10,7 @@
 
 *IT Professional*
 
-[![GITHUB](https://img.shields.io/badge/GITHUB-%40mycceducation-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mycceducation)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://-) [![GITHUB](https://img.shields.io/badge/GITHUB-%40mycceducation-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mycceducation) [![EMAIL](https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jones@jones.com) [![RESUME](https://img.shields.io/badge/RESUME-VIEW-0969da?style=for-the-badge&logo=googledrive&logoColor=white)](https://-)
 
 </div>
 
@@ -24,26 +24,15 @@ Driven and tech-passionate professional transitioning from a fast-paced retail b
 
 ## Skills Learned
 
-🖥️ Tech Essentials: ![Computer Hardware](https://img.shields.io/badge/Computer%20Hardware-0969da?style=flat-square) ![PC Assembly](https://img.shields.io/badge/PC%20Assembly-0969da?style=flat-square)
+🖥️ Tech Essentials: ![Computer Hardware](https://img.shields.io/badge/Computer%20Hardware-0969da?style=flat-square) ![Troubleshooting](https://img.shields.io/badge/Troubleshooting-0969da?style=flat-square) ![Operating Systems](https://img.shields.io/badge/Operating%20Systems-0969da?style=flat-square)
 
-🌐 Networking & Security: ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0969da?style=flat-square) ![Subnetting](https://img.shields.io/badge/Subnetting-0969da?style=flat-square) ![VLANs](https://img.shields.io/badge/VLANs-0969da?style=flat-square) ![Firewalls](https://img.shields.io/badge/Firewalls-0969da?style=flat-square)
+🌐 Networking & Security: ![DHCP](https://img.shields.io/badge/DHCP-0969da?style=flat-square) ![Routing & Switching](https://img.shields.io/badge/Routing%20%26%20Switching-0969da?style=flat-square)
 
-💻 Programming Languages & Tools: ![Python](https://img.shields.io/badge/Python-0969da?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-0969da?style=flat-square) ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-0969da?style=flat-square)
+💻 Programming Languages & Tools: ![Python](https://img.shields.io/badge/Python-0969da?style=flat-square) ![Bash Scripting](https://img.shields.io/badge/Bash%20Scripting-0969da?style=flat-square) ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-0969da?style=flat-square)
 
-🔒 Cybersecurity: ![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-0969da?style=flat-square) ![Threat Analysis](https://img.shields.io/badge/Threat%20Analysis-0969da?style=flat-square) ![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-0969da?style=flat-square)
+🔒 Cybersecurity: ![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-0969da?style=flat-square) ![Threat Analysis](https://img.shields.io/badge/Threat%20Analysis-0969da?style=flat-square) ![Vulnerability Scanning](https://img.shields.io/badge/Vulnerability%20Scanning-0969da?style=flat-square)
 
-☁️ Cloud & DevOps: ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0969da?style=flat-square) ![Cloud Security](https://img.shields.io/badge/Cloud%20Security-0969da?style=flat-square)
-
----
-
-## 🏆 Certifications & Digital Badges
-
-| Certification | Issuer | Verify | Badge |
-|---|---|---|---|
-| Microsoft AI-901 | Microsoft | — | — |
-| Comptia Network+ | CompTIA | — | — |
-| Microsoft AZ-104 | Microsoft | — | — |
-| Comptia Security+ | Comptia | — | — |
+☁️ Cloud & DevOps: ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0969da?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-0969da?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-0969da?style=flat-square)
 
 ---
 
@@ -52,9 +41,7 @@ Driven and tech-passionate professional transitioning from a fast-paced retail b
 <details>
 <summary><strong>Course 1: Networking I</strong></summary>
 
-| Lab / Project | Description | Status | Link |
-|---|---|---|---|
-| PC Builder | — | ⏳ Pending | — |
+*No labs added yet.*
 
 </details>
 
