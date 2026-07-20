@@ -1,134 +1,100 @@
+<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A2%2C%22github%22%3A%22mycceducation%22%2C%22name%22%3A%22Joanna%20Jones%22%7D-->
+
 <div align="center">
 
-# Hi there! TEST
+<img src="https://github.com/mycceducation.png" width="150" style="border-radius:50%;border:4px solid #0969da"/>
 
-### TEST
-*ITSA Student*
+# Hi there, I'm Joanna Jones
 
+**Joanna Jones**
 
+*IT Professional*
+
+[![GITHUB](https://img.shields.io/badge/GITHUB-%40mycceducation-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mycceducation)
 
 </div>
 
 ---
 
-## 💼 Professional Summary
+## Professional Summary
 
-_Add your professional summary on the left._
+Driven and tech-passionate professional transitioning from a fast-paced retail background into Information Technology and Cybersecurity. Combining years of experience in high-pressure problem solving, customer service, and active listening with hands-on technical training in networking, operating systems, and security fundamentals. Driven by a lifelong fascination with how technology works and a commitment to protecting digital infrastructure. Currently expanding my skillset as an ITSA student at My Computer Career, actively preparing to launch a career in cybersecurity.
 
 ---
 
-## 🛠️ Skills Learned
+## Skills Learned
 
-_Select your skills using the chip matrix on the left._
+🖥️ Tech Essentials: ![Computer Hardware](https://img.shields.io/badge/Computer%20Hardware-0969da?style=flat-square) ![PC Assembly](https://img.shields.io/badge/PC%20Assembly-0969da?style=flat-square)
+
+🌐 Networking & Security: ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0969da?style=flat-square) ![Subnetting](https://img.shields.io/badge/Subnetting-0969da?style=flat-square) ![VLANs](https://img.shields.io/badge/VLANs-0969da?style=flat-square) ![Firewalls](https://img.shields.io/badge/Firewalls-0969da?style=flat-square)
+
+💻 Programming Languages & Tools: ![Python](https://img.shields.io/badge/Python-0969da?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-0969da?style=flat-square) ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-0969da?style=flat-square)
+
+🔒 Cybersecurity: ![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-0969da?style=flat-square) ![Threat Analysis](https://img.shields.io/badge/Threat%20Analysis-0969da?style=flat-square) ![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-0969da?style=flat-square)
+
+☁️ Cloud & DevOps: ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0969da?style=flat-square) ![Cloud Security](https://img.shields.io/badge/Cloud%20Security-0969da?style=flat-square)
 
 ---
 
 ## 🏆 Certifications & Digital Badges
 
-| Badge | Certification | Issuer / Description | Verify |
-|:---:|---|---|:---:|
-| 🏅 | **MyCC Pathways Badge** | — | — |
+| Certification | Issuer | Verify | Badge |
+|---|---|---|---|
+| Microsoft AI-901 | Microsoft | — | — |
+| Comptia Network+ | CompTIA | — | — |
+| Microsoft AZ-104 | Microsoft | — | — |
+| Comptia Security+ | Comptia | — | — |
 
 ---
 
-## 📚 Course Portfolio
+## Course Portfolio
 
 <details>
-<summary>🌐 Course 1: Networking I</summary>
+<summary><strong>Course 1: Networking I</strong></summary>
 
-> Foundational networking concepts, protocols, and hands-on configuration exercises.
-
-| Lab | Lab Title | Status |
-|---|---|---|
-| Lab 1.1 | Network Topology & Design | ⏳ Upcoming |
-| Lab 1.2 | IP Addressing & Subnetting | ⏳ Upcoming |
-| Lab 1.3 | Router & Switch Configuration | ⏳ Upcoming |
-| Lab 1.4 | VLAN Implementation | ⏳ Upcoming |
-| Lab 1.5 | Network Troubleshooting | ⏳ Upcoming |
-
-</details>
-
-<details>
-<summary>🖥️ Course 2: Computer & Security</summary>
-
-> Hardware fundamentals, operating system essentials, and introductory security concepts.
-
-| Lab | Lab Title | Status |
-|---|---|---|
-| Week 1 | Learning Lab — Teachable Machine | ⏳ Upcoming |
-| Week 5 | Learning Lab — Creating a Business Model using AI | ⏳ Upcoming |
-
-</details>
-
-<details>
-<summary>⚙️ Course 3: Operating Systems I</summary>
-
-> Windows and Linux administration, file systems, and system management tools.
-
-| Lab | Lab Title | Status |
-|---|---|---|
-| Week 3 | Learning Lab — Scripting and Automation (Budget Tracker) | ⏳ Upcoming |
-| Week 5 | Learning Lab — Beginner PowerShell Lab: System Information, Services, and Reporting | ⏳ Upcoming |
-
-</details>
-
-<details>
-<summary>🗄️ Course 4: Server I</summary>
-
-> Active Directory, DNS/DHCP, group policy management, and enterprise server infrastructure.
-
-| Lab | Lab Title | Status |
-|---|---|---|
-| Lab 4.1 | Active Directory Setup | ⏳ Upcoming |
-| Lab 4.2 | DNS & DHCP Configuration | ⏳ Upcoming |
-| Lab 4.3 | Group Policy Management | ⏳ Upcoming |
-| Lab 4.4 | File & Print Services | ⏳ Upcoming |
-| Lab 4.5 | Remote Access & VPN | ⏳ Upcoming |
-
-</details>
-
-<details>
-<summary>🛡️ Course 5: Network & Security</summary>
-
-> Advanced network security architecture, SIEM operations, and incident response procedures.
-
-| Lab | Lab Title | Status |
-|---|---|---|
-| Lab 5.1 | Network Security Architecture | ⏳ Upcoming |
-| Lab 5.2 | SIEM Configuration | ⏳ Upcoming |
-| Lab 5.3 | Incident Response Procedures | ⏳ Upcoming |
-| Lab 5.4 | Wireless Security Implementation | ⏳ Upcoming |
-| Lab 5.5 | Cloud Network Security | ⏳ Upcoming |
-
-</details>
-
-<details>
-<summary>🔒 Course 6: Security I</summary>
-
-> Cryptography, firewalls, vulnerability assessment, and defensive security frameworks.
-
-| Lab | Lab Title | Status |
-|---|---|---|
-| Lab 6.1 | Security Fundamentals & CIA Triad | ⏳ Upcoming |
-| Lab 6.2 | Cryptography & PKI | ⏳ Upcoming |
-| Lab 6.3 | Firewall Configuration | ⏳ Upcoming |
-| Lab 6.4 | IDS/IPS Deployment | ⏳ Upcoming |
-| Lab 6.5 | Vulnerability Assessment | ⏳ Upcoming |
-
-</details>
-
-<details>
-<summary>🏆 Challenge Labs — Advanced Milestones</summary>
-
-> Multi-disciplinary capstone projects integrating skills from all six courses.
-
-| Challenge | Title | Domains | Status |
+| Lab / Project | Description | Status | Link |
 |---|---|---|---|
-| **CL-01** | Secure Enterprise Network Build | Networking + Security | ⏳ Upcoming |
-| **CL-02** | Active Directory Attack & Defense | Security + Server | ⏳ Upcoming |
-| **CL-03** | Cloud Infrastructure Deployment | Cloud + OS | ⏳ Upcoming |
-| **CL-04** | Incident Response Full Scenario | All Domains | ⏳ Upcoming |
+| PC Builder | — | ⏳ Pending | — |
 
 </details>
 
-<!--MYCC-PORTFOLIO-META:{"name":"BRandon Steel","email":"","linkedin":"","repo":"","github":"","bio":"","themeId":"blue","skills":[],"headlines":[],"customHeadlines":[],"certs":[{"title":"MyCC Pathways Badge","issuer":"","link":"","imgUrl":""}]}-->
+<details>
+<summary><strong>Course 2: Computer & Security Essentials</strong></summary>
+
+*No labs added yet.*
+
+</details>
+
+<details>
+<summary><strong>Course 3: Operating Systems I</strong></summary>
+
+*No labs added yet.*
+
+</details>
+
+<details>
+<summary><strong>Course 4: Security I</strong></summary>
+
+*No labs added yet.*
+
+</details>
+
+<details>
+<summary><strong>Course 5: Server I</strong></summary>
+
+*No labs added yet.*
+
+</details>
+
+<details>
+<summary><strong>Course 6: Networking & Security I</strong></summary>
+
+*No labs added yet.*
+
+</details>
+
+---
+
+<div align="center">
+<sub>Built with the <a href="https://mycceducation.azurewebsites.net">MyComputer Career Digital Portfolio Builder</a> · ITSA Program</sub>
+</div>
