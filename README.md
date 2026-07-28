@@ -4,9 +4,9 @@
 
 <img src="https://github.com/mycceducation.png" width="150" style="border-radius:50%;border:4px solid #0969da"/>
 
-# Hi there, I'm Joanna Jones
+# Hi there, I'm MyCC Student
 
-**Joanna Jones**
+**MyCC Student**
 
 *IT Professional*
 
