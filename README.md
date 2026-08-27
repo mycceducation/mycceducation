@@ -1,16 +1,16 @@
-<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22mycceducation%22%2C%22name%22%3A%22MyCC%20Student%22%2C%22email%22%3A%22%22%2C%22linkedin%22%3A%22-%22%2C%22resume%22%3A%22%22%2C%22bio%22%3A%22%22%2C%22themeIdx%22%3A0%2C%22skills%22%3A%5B%22Computer%20Hardware%22%2C%22Virtualization%22%2C%22AWS%22%2C%22Python%22%2C%22Wi-Fi%22%2C%22PC%20Assembly%22%2C%22Subnetting%22%2C%22IDS%2FIPS%22%2C%22Risk%20Management%22%2C%22VLANs%22%2C%22Routing%20%26%20Switching%22%5D%2C%22headlines%22%3A%5B%22IT%20Professional%22%2C%22My%20Computer%20Computer%20Career%20Student%22%5D%2C%22customHeadlines%22%3A%5B%22My%20Computer%20Computer%20Career%20Student%22%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%7B%22name%22%3A%22%22%2C%22issuer%22%3A%22%22%2C%22link%22%3A%22%22%2C%22badge%22%3A%22%22%7D%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%5D%2C%222%22%3A%5B%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
+<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22mycceducation%22%2C%22name%22%3A%22%22%2C%22email%22%3A%22%22%2C%22linkedin%22%3A%22%22%2C%22resume%22%3A%22%22%2C%22bio%22%3A%22Driven%20IT%20professional%20building%20expertise%20in%20computer%20hardware%2C%20virtualization%2C%20and%20core%20networking%20principles.%20Combines%20practical%20training%20in%20system%20assembly%20and%20OS%20configuration%20with%20strong%20diagnostic%20skills%20and%20a%20user-first%20mindset.%20Passionate%20about%20resolving%20technical%20friction%20and%20eager%20to%20transition%20into%20an%20entry-level%20Help%20Desk%20or%20IT%20Support%20Specialist%20role.%22%2C%22themeIdx%22%3A0%2C%22skills%22%3A%5B%22PC%20Assembly%22%2C%22Troubleshooting%22%2C%22DHCP%22%2C%22Automation%22%2C%22Azure%20AD%22%5D%2C%22headlines%22%3A%5B%5D%2C%22customHeadlines%22%3A%5B%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%7B%22name%22%3A%22Foundational%20Skills%20for%20IT%20Professionals%22%2C%22issuer%22%3A%22My%20Computer%20Career%22%2C%22link%22%3A%22https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1U9AvylV7OUxWy0Ye6NMRGs3NkUvFPuoz%2Fview%3Fusp%3Dsharing%22%2C%22badge%22%3A%22%22%7D%2C%7B%22name%22%3A%22Microsoft%20AI-901%22%2C%22issuer%22%3A%22%22%2C%22link%22%3A%22%22%2C%22badge%22%3A%22%22%7D%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%5D%2C%222%22%3A%5B%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
 
 <div align="center">
 
 <img src="https://github.com/mycceducation.png" width="150" style="border-radius:50%;border:4px solid #0969da"/>
 
-# Hi there, I'm MyCC Student
+# Hi there, I'm Your Name
 
-**MyCC Student**
+**Your Name**
 
-*IT Professional*
+*ITSA Student*
 
-[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://-) [![GITHUB](https://img.shields.io/badge/GITHUB-%40mycceducation-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mycceducation)
+[![GITHUB](https://img.shields.io/badge/GITHUB-%40mycceducation-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mycceducation)
 
 </div>
 
@@ -18,21 +18,28 @@
 
 ## Professional Summary
 
-*Add your professional summary above to display it here.*
+Driven IT professional building expertise in computer hardware, virtualization, and core networking principles. Combines practical training in system assembly and OS configuration with strong diagnostic skills and a user-first mindset. Passionate about resolving technical friction and eager to transition into an entry-level Help Desk or IT Support Specialist role.
 
 ---
 
 ## Skills Learned
 
-🖥️ Tech Essentials: ![Computer Hardware](https://img.shields.io/badge/Computer%20Hardware-0969da?style=flat-square) ![PC Assembly](https://img.shields.io/badge/PC%20Assembly-0969da?style=flat-square) ![Virtualization](https://img.shields.io/badge/Virtualization-0969da?style=flat-square)
+🖥️ Tech Essentials: ![PC Assembly](https://img.shields.io/badge/PC%20Assembly-0969da?style=flat-square) ![Troubleshooting](https://img.shields.io/badge/Troubleshooting-0969da?style=flat-square)
 
-🌐 Networking & Security: ![Subnetting](https://img.shields.io/badge/Subnetting-0969da?style=flat-square) ![VLANs](https://img.shields.io/badge/VLANs-0969da?style=flat-square) ![Routing & Switching](https://img.shields.io/badge/Routing%20%26%20Switching-0969da?style=flat-square) ![Wi-Fi](https://img.shields.io/badge/Wi--Fi-0969da?style=flat-square)
+🌐 Networking & Security: ![DHCP](https://img.shields.io/badge/DHCP-0969da?style=flat-square)
 
-💻 Programming Languages & Tools: ![Python](https://img.shields.io/badge/Python-0969da?style=flat-square)
+💻 Programming Languages & Tools: ![Automation](https://img.shields.io/badge/Automation-0969da?style=flat-square)
 
-🔒 Cybersecurity: ![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-0969da?style=flat-square) ![Risk Management](https://img.shields.io/badge/Risk%20Management-0969da?style=flat-square)
+☁️ Cloud & DevOps: ![Azure AD](https://img.shields.io/badge/Azure%20AD-0969da?style=flat-square)
 
-☁️ Cloud & DevOps: ![AWS](https://img.shields.io/badge/AWS-0969da?style=flat-square)
+---
+
+## 🏆 Certifications & Digital Badges
+
+| Certification | Issuer | Verify | Badge |
+|---|---|---|---|
+| Foundational Skills for IT Professionals | My Computer Career | [Verify](https://drive.google.com/file/d/1U9AvylV7OUxWy0Ye6NMRGs3NkUvFPuoz/view?usp=sharing) | — |
+| Microsoft AI-901 |  | — | — |
 
 ---
 
